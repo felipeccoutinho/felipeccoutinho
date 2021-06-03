@@ -1,4 +1,4 @@
-<H1>FELIPE COUTINHO</H1>
+<H2>Felipe Coutinho</H2><b>
 
 - 👋 Hi, I’m @felipeccoutinho
 - 👀 I’m interested in Data Science and Python
