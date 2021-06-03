@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @felipeccoutinho
 - 👀 I’m interested in Data Science and Python
+- 📊 I'm working with Business Intelligence
 - 🌱 I’m currently learning Machine Learning
 
 
